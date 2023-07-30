@@ -1,0 +1,23 @@
+body {
+    background-image: url("/img/anime3.jpg");
+    background-color: aqua;
+}
+h1  {
+    color: burlywood;
+    background-color: whitesmoke;
+    width: 500px; height: 40px; 
+}
+button {
+    width: 200px; height: 30px; 
+    background-color: bisque;
+}
+dl {
+    width: 220px; height: 55px;
+    padding-left: 0px;
+    margin-top: 1em;
+    margin-bottom: -1em;
+    background-color: bisque;
+}
+p {
+    background-color: antiquewhite;
+}
